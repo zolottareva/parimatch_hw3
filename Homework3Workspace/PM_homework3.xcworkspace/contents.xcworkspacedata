@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:task4(HW3)/task4(HW3).xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:task1(calculator)/task1(calculator).xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:task2(HW3)/task2(HW3).xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:task3(HW3)/task3(HW3).xcodeproj">
+   </FileRef>
+</Workspace>
